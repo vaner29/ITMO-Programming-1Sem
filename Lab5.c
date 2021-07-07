@@ -1,3 +1,4 @@
+//var 15
 #include <stdio.h>
 #define size 6
 #define sizem 2
